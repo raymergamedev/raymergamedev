@@ -7,7 +7,7 @@
 }
 
 body {
-    background-image: url(./images/buyBG.png);
+    background-image: url(../buyBG.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
